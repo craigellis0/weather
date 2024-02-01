@@ -1,7 +1,7 @@
 ''' randomly select n number (defined by requested_entries) from the weather_data table and save as CSV file 
 use: python weather_csv.py 
 
-education purpose: This script was created as a mini project to confirm I can select some items from a datbase, and then do 
+education purpose: This script was created as a mini project to confirm I can select some items from a database, and then do 
 something with it.  In this case, save the SQL query results to as CSV file. 
 '''
 
