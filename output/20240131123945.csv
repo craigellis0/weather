@@ -1,0 +1,11 @@
+City,State,ZIP,Name,Datetime,Weather Main,Temperature,Wind Speed,Sunrise
+Woodville,Texas,75990,Woodville,2024-01-31 09:30:52,Clouds,58.64,1.38,07:10:03
+Prescott,Kansas,66767,Pleasanton,2024-01-31 09:30:53,Clear,37.13,3.07,07:24:38
+Monterey,Indiana,46960,Bass Lake,2024-01-31 15:28:12,Clouds,39.09,4.47,07:58:25
+Honolulu,Hawaii,96840,Honolulu,2024-01-31 10:28:13,Clouds,76.68,2.06,07:09:08
+Spokane,Washington,99208,Town and Country,2024-01-31 12:28:13,Clouds,42.44,3.6,07:18:30
+Landers,California,92285,Yucca Valley,2024-01-31 12:28:13,Clouds,58.17,6.17,06:44:39
+Monticello,Minnesota,55362,Monticello,2024-01-31 14:28:14,Clear,52.18,3.09,07:37:28
+Youngstown,Ohio,44505,Youngstown,2024-01-31 15:28:15,Clouds,40.46,4.12,07:34:51
+Marble Falls,Arkansas,72648,Jasper,2024-01-31 14:28:16,Clear,62.73,0.99,07:14:31
+Girard,Georgia,30426,Boiling Springs,2024-01-31 15:28:17,Clouds,53.78,5.2,07:23:11

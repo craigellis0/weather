@@ -1,0 +1,11 @@
+City,State,ZIP,Name,Datetime,Weather Main,Temperature,Wind Speed,Sunrise
+Comstock,Texas,78837,Val Verde,2023-12-31 15:44:26,Clear,67.71,1.16,07:39:59
+Castle Dale,Utah,84513,Castle Dale,2023-12-31 14:41:37,Clear,44.71,1.11,07:43:22
+Valley Ford,California,94972,Occidental,2023-12-31 13:43:51,Clouds,56.1,2.01,07:28:24
+Deerfield,Virginia,24432,Highland,2023-12-31 16:44:28,Clouds,40.06,0.45,07:33:58
+Murray,Nebraska,68409,Plattsmouth,2023-12-31 15:43:48,Clouds,27.77,3.58,07:48:08
+Amity,Oregon,97101,Amity,2023-12-31 18:09:03,Clouds,41.54,1.07,07:51:17
+Liberty,West Virginia,25124,Winfield,2023-12-31 21:09:04,Clouds,43.11,3.7,07:44:38
+Mentone,Texas,79754,Mentone,2023-12-31 20:09:04,Clear,57.38,5.07,07:53:53
+Vail,Iowa,51465,Denison,2023-12-31 20:09:05,Clouds,24.33,3.6,07:48:42
+Irving,Texas,75039,Oldham,2023-12-31 20:07:40,Clouds,52.12,5.66,07:30:04

@@ -1,0 +1,8 @@
+City,State,ZIP,Name,Datetime,Weather Main,Temperature,Wind Speed,Sunrise
+Irving,Texas,75039,Oldham,2023-12-31 11:35:07,Clouds,58.5,3.6,07:30:04
+Riverside,Washington,98849,Cherokee,2023-12-31 09:35:07,Clouds,38.91,0.0,07:50:10
+Lookout Mountain,Georgia,30750,Chattanooga Valley,2023-12-31 12:35:08,Clear,47.39,4.12,07:49:01
+Omaha,Nebraska,68135,Chalco,2023-12-31 11:35:09,Clouds,27.34,4.63,07:50:02
+Glencoe,Ohio,43928,Saint Clairsville,2023-12-31 12:35:09,Clouds,38.39,4.6,07:45:15
+Pasadena,California,91125,Pasadena,2023-12-31 09:35:10,Clear,52.61,1.54,06:58:05
+Averill,Vermont,05901,Coaticook,2023-12-31 12:35:11,Clouds,19.15,3.48,07:24:59

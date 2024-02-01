@@ -1,0 +1,11 @@
+City,State,ZIP,Name,Datetime,Weather Main,Temperature,Wind Speed,Sunrise
+Pasadena,California,91125,Pasadena,2023-12-31 09:35:10,Clear,52.61,1.54,06:58:05
+Averill,Vermont,05901,Coaticook,2023-12-31 12:35:11,Clouds,19.15,3.48,07:24:59
+Syracuse,New York,13201,Syracuse,2023-12-31 13:59:24,Snow,33.44,0.89,07:35:55
+Council,North Carolina,28434,Lake Waccamaw,2023-12-31 14:06:42,Clear,55.58,3.63,07:19:50
+Minotola,New Jersey,08341,Buena,2023-12-31 14:06:43,Clouds,45.61,6.17,07:19:57
+Flat Rock,Indiana,47234,Geneva,2023-12-31 14:06:44,Mist,33.51,5.14,08:02:50
+Riverside,Washington,98849,Cherokee,2023-12-31 11:06:44,Clouds,39.15,2.06,07:50:10
+Absecon,New Jersey,08201,Absecon,2023-12-31 14:06:45,Clouds,45.7,4.63,07:17:52
+Monterey,Indiana,46960,Bass Lake,2023-12-31 14:06:46,Clouds,32.05,2.68,08:11:12
+Salt Lake City,Utah,84180,Salt Lake City,2023-12-31 12:06:47,Haze,41.94,0.45,07:51:35
